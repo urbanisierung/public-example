@@ -17,11 +17,12 @@
     }
   ],
   "files": {
-    "selected": "week-tasks.todos.md",
+    "selected": "personal-budget.budget.csv",
     "opened": [
-      "week-tasks.todos.md"
+      "personal-budget.budget.csv"
     ],
     "recentlyOpened": [
+      "personal-budget.budget.csv",
       "week-tasks.todos.md",
       "engineer-birthdays.events.csv",
       "daily-workout.habit.csv"
