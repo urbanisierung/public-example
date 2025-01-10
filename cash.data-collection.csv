@@ -1,1 +1,1 @@
-name::etf,type::number,unit::€;name::emergency fund,type::number,unit::€;name::created,type::auto:date
+name::created,type::auto:date;name::etf,type::number,unit::€;name::emergency fund,type::number,unit::€
