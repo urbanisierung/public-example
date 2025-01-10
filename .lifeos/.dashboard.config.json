@@ -19,6 +19,11 @@
       "path": "personal-budget.budget.csv",
       "dashboard": "finance",
       "skipOnMobile": false
+    },
+    {
+      "path": "cash.data-collection.csv",
+      "dashboard": "finance",
+      "skipOnMobile": false
     }
   ],
   "files": {
