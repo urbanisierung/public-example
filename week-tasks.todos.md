@@ -6,4 +6,5 @@ abbreviations: undefined
 ---
 
 # Todos
+* [ ] 2025-01-10 10:54:22 clearing out the garage
 
