@@ -22,11 +22,12 @@
     }
   ],
   "files": {
-    "selected": "personal-budget.budget.csv",
+    "selected": "cash.data-collection.csv",
     "opened": [
-      "personal-budget.budget.csv"
+      "cash.data-collection.csv"
     ],
     "recentlyOpened": [
+      "cash.data-collection.csv",
       "personal-budget.budget.csv",
       "week-tasks.todos.md",
       "engineer-birthdays.events.csv",
