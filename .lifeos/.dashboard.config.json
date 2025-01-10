@@ -12,11 +12,12 @@
     }
   ],
   "files": {
-    "selected": "engineer-birthdays.events.csv",
+    "selected": "week-tasks.todos.md",
     "opened": [
-      "engineer-birthdays.events.csv"
+      "week-tasks.todos.md"
     ],
     "recentlyOpened": [
+      "week-tasks.todos.md",
       "engineer-birthdays.events.csv",
       "daily-workout.habit.csv"
     ]
