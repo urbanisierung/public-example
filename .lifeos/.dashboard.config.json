@@ -9,6 +9,11 @@
       "path": "engineer-birthdays.events.csv",
       "dashboard": "default",
       "skipOnMobile": false
+    },
+    {
+      "path": "week-tasks.todos.md",
+      "dashboard": "default",
+      "skipOnMobile": false
     }
   ],
   "files": {
