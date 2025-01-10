@@ -1,5 +1,11 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "path": "daily-workout.habit.csv",
+      "dashboard": "default",
+      "skipOnMobile": false
+    }
+  ],
   "files": {
     "selected": "daily-workout.habit.csv",
     "opened": [
