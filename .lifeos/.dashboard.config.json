@@ -4,6 +4,11 @@
       "path": "daily-workout.habit.csv",
       "dashboard": "default",
       "skipOnMobile": false
+    },
+    {
+      "path": "engineer-birthdays.events.csv",
+      "dashboard": "default",
+      "skipOnMobile": false
     }
   ],
   "files": {
