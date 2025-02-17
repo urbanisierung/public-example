@@ -1,10 +1,12 @@
 {
   "entries": [],
   "files": {
-    "selected": ".lifeos/.dashboard.config.json",
+    "selected": "cash.data-collection.csv",
     "opened": [
-      ".lifeos/.dashboard.config.json"
+      "cash.data-collection.csv"
     ],
-    "recentlyOpened": []
+    "recentlyOpened": [
+      "cash.data-collection.csv"
+    ]
   }
 }
