@@ -1,5 +1,11 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "path": "cash.data-collection.csv",
+      "dashboard": "default",
+      "skipOnMobile": false
+    }
+  ],
   "files": {
     "selected": "cash.data-collection.csv",
     "opened": [
