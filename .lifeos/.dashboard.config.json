@@ -7,11 +7,12 @@
     }
   ],
   "files": {
-    "selected": "cash.data-collection.csv",
+    "selected": "daily-workout.habit.csv",
     "opened": [
-      "cash.data-collection.csv"
+      "daily-workout.habit.csv"
     ],
     "recentlyOpened": [
+      "daily-workout.habit.csv",
       "cash.data-collection.csv"
     ]
   }
