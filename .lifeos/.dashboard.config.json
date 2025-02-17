@@ -35,13 +35,12 @@
     "selected": ".lifeos/.dashboard.config.json",
     "opened": [],
     "recentlyOpened": [
-      ".lifeos/.dashboard.config.json",
       ".lifeos/events/new-event.lifosy-event.json",
+      ".lifeos/.dashboard.config.json",
       "my-lifosy-event.lifosy-event.json",
       ".lifeos/pois/test.poi.json",
       ".lifeos/.biolinks.json",
-      "paris.poi.json",
-      "my2.achievements.md"
+      "paris.poi.json"
     ]
   }
 }
