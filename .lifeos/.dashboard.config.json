@@ -32,11 +32,12 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/.dashboard.config.json",
+    "selected": "cash.data-collection.csv",
     "opened": [
-      ".lifeos/.dashboard.config.json"
+      "cash.data-collection.csv"
     ],
     "recentlyOpened": [
+      "cash.data-collection.csv",
       ".lifeos/.dashboard.config.json",
       ".lifeos/events/new-event.lifosy-event.json",
       "my-lifosy-event.lifosy-event.json",
