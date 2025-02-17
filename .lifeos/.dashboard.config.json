@@ -32,11 +32,13 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/events/new-event.lifosy-event.json",
-    "opened": [],
+    "selected": ".lifeos/.dashboard.config.json",
+    "opened": [
+      ".lifeos/.dashboard.config.json"
+    ],
     "recentlyOpened": [
-      ".lifeos/events/new-event.lifosy-event.json",
       ".lifeos/.dashboard.config.json",
+      ".lifeos/events/new-event.lifosy-event.json",
       "my-lifosy-event.lifosy-event.json",
       ".lifeos/pois/test.poi.json",
       ".lifeos/.biolinks.json",
