@@ -40,8 +40,7 @@
       "my-lifosy-event.lifosy-event.json",
       ".lifeos/pois/test.poi.json",
       ".lifeos/.biolinks.json",
-      "paris.poi.json",
-      "events.events.csv"
+      "paris.poi.json"
     ]
   }
 }
