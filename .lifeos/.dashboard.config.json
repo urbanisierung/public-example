@@ -17,14 +17,14 @@
     }
   ],
   "files": {
-    "selected": "engineer-birthdays.events.csv",
+    "selected": "cash.data-collection.csv",
     "opened": [
-      "engineer-birthdays.events.csv"
+      "cash.data-collection.csv"
     ],
     "recentlyOpened": [
+      "cash.data-collection.csv",
       "engineer-birthdays.events.csv",
-      "daily-workout.habit.csv",
-      "cash.data-collection.csv"
+      "daily-workout.habit.csv"
     ]
   }
 }
