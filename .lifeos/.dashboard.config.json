@@ -19,6 +19,11 @@
       "path": "freelancing/customer-a.timetracking.csv",
       "dashboard": "Freelancing",
       "skipOnMobile": false
+    },
+    {
+      "path": "freelancing/customer-b.timetracking.csv",
+      "dashboard": "Freelancing",
+      "skipOnMobile": false
     }
   ],
   "files": {
