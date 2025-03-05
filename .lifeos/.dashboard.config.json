@@ -32,19 +32,19 @@
     }
   ],
   "files": {
-    "selected": "freelancing/customer-milestones.events.csv",
+    "selected": ".lifeos/.dashboard.config.json",
     "opened": [
-      "freelancing/customer-milestones.events.csv"
+      ".lifeos/.dashboard.config.json"
     ],
     "recentlyOpened": [
+      ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
       "freelancing/customer-a.timetracking.csv",
       ".lifeos/.biolinks.json",
       "Lifosy Values.md",
       "cash.data-collection.csv",
-      "engineer-birthdays.events.csv",
-      "daily-workout.habit.csv"
+      "engineer-birthdays.events.csv"
     ]
   }
 }
