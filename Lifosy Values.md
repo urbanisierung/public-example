@@ -13,6 +13,6 @@ Files over services is not just something we say. It's the basis for ensuring th
 
 ## Access
 
-asd
+It doesn't matter which device you use to access your data. Whether desktop or mobile, whether Windows, MacOS or Linux, whether iOS or Android. Your data, your dashboards, your widgets work the same everywhere. No favoritism.
 
 ## Simplicity
