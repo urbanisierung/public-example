@@ -39,6 +39,11 @@
       "path": "work/work-pomodoro.pomodoro.csv",
       "dashboard": "Work",
       "skipOnMobile": false
+    },
+    {
+      "path": "work/launch.todos.md",
+      "dashboard": "Work",
+      "skipOnMobile": false
     }
   ],
   "files": {
