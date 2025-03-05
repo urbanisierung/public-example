@@ -2,17 +2,17 @@
   "entries": [
     {
       "path": "cash.data-collection.csv",
-      "dashboard": "Personal",
+      "dashboard": "default",
       "skipOnMobile": false
     },
     {
       "path": "daily-workout.habit.csv",
-      "dashboard": "Personal",
+      "dashboard": "default",
       "skipOnMobile": false
     },
     {
       "path": "engineer-birthdays.events.csv",
-      "dashboard": "Personal",
+      "dashboard": "default",
       "skipOnMobile": false
     },
     {
@@ -28,6 +28,21 @@
     {
       "path": "freelancing/customer-milestones.events.csv",
       "dashboard": "Freelancing",
+      "skipOnMobile": false
+    },
+    {
+      "path": "cash.data-collection.csv",
+      "dashboard": "Personal",
+      "skipOnMobile": false
+    },
+    {
+      "path": "daily-workout.habit.csv",
+      "dashboard": "Personal",
+      "skipOnMobile": false
+    },
+    {
+      "path": "engineer-birthdays.events.csv",
+      "dashboard": "Personal",
       "skipOnMobile": false
     }
   ],
