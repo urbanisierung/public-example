@@ -6,5 +6,6 @@ abbreviations: undefined
 ---
 
 # Todos
+* [ ] 2025-03-05 13:10:45 Write blog posts
 * [ ] 2025-03-05 13:10:23 Finish Landingpage
 
