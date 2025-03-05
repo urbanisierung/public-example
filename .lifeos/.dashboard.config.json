@@ -29,6 +29,11 @@
       "path": "freelancing/customer-milestones.events.csv",
       "dashboard": "Freelancing",
       "skipOnMobile": false
+    },
+    {
+      "path": "work/values.tldraw.json",
+      "dashboard": "Work",
+      "skipOnMobile": false
     }
   ],
   "files": {
