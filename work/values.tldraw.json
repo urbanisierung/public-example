@@ -172,6 +172,36 @@
       "parentId": "page:page",
       "index": "a1ron0lh",
       "typeName": "shape"
+    },
+    "shape:8S7a5Mc2t06p9cUXFJwh7": {
+      "x": 1752,
+      "y": 803,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:8S7a5Mc2t06p9cUXFJwh7",
+      "type": "geo",
+      "props": {
+        "w": 35,
+        "h": 36,
+        "geo": "rectangle",
+        "color": "black",
+        "labelColor": "black",
+        "fill": "none",
+        "dash": "draw",
+        "size": "m",
+        "font": "draw",
+        "text": "",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "growY": 0,
+        "url": "",
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "a5BNQ",
+      "typeName": "shape"
     }
   },
   "schema": {
