@@ -47,19 +47,19 @@
     }
   ],
   "files": {
-    "selected": "work/launch.todos.md",
+    "selected": "other/random-notes.md",
     "opened": [
-      "work/launch.todos.md"
+      "other/random-notes.md"
     ],
     "recentlyOpened": [
+      "other/random-notes.md",
       "work/launch.todos.md",
       "work/values.tldraw.json",
       "work/work-pomodoro.pomodoro.csv",
       ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
-      "freelancing/customer-a.timetracking.csv",
-      ".lifeos/.biolinks.json"
+      "freelancing/customer-a.timetracking.csv"
     ]
   }
 }
