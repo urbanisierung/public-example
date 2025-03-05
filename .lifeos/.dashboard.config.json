@@ -2,17 +2,17 @@
   "entries": [
     {
       "path": "cash.data-collection.csv",
-      "dashboard": "default",
+      "dashboard": "Personal",
       "skipOnMobile": false
     },
     {
       "path": "daily-workout.habit.csv",
-      "dashboard": "default",
+      "dashboard": "Personal",
       "skipOnMobile": false
     },
     {
       "path": "engineer-birthdays.events.csv",
-      "dashboard": "default",
+      "dashboard": "Personal",
       "skipOnMobile": false
     },
     {
