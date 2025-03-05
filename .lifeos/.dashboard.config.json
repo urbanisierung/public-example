@@ -34,6 +34,11 @@
       "path": "work/values.tldraw.json",
       "dashboard": "Work",
       "skipOnMobile": false
+    },
+    {
+      "path": "work/work-pomodoro.pomodoro.csv",
+      "dashboard": "Work",
+      "skipOnMobile": false
     }
   ],
   "files": {
