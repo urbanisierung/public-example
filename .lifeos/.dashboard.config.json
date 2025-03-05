@@ -44,6 +44,11 @@
       "path": "work/launch.todos.md",
       "dashboard": "Work",
       "skipOnMobile": false
+    },
+    {
+      "path": "other/random-notes.md",
+      "dashboard": "Other",
+      "skipOnMobile": false
     }
   ],
   "files": {
