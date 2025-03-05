@@ -42,13 +42,13 @@
     }
   ],
   "files": {
-    "selected": "work/work-pomodoro.pomodoro.csv",
+    "selected": "work/values.tldraw.json",
     "opened": [
-      "work/work-pomodoro.pomodoro.csv"
+      "work/values.tldraw.json"
     ],
     "recentlyOpened": [
-      "work/work-pomodoro.pomodoro.csv",
       "work/values.tldraw.json",
+      "work/work-pomodoro.pomodoro.csv",
       ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
