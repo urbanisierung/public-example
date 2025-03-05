@@ -11,6 +11,14 @@
       "url": " https://lifosy.com",
       "description": "Learn all about Lifosy.",
       "icon": " "
+    },
+    {
+      "id": "1741168973829",
+      "type": "link",
+      "name": "App",
+      "url": " https://app.lifosy.com",
+      "description": " Your Life Operating System",
+      "icon": " "
     }
   ]
 }
