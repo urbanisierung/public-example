@@ -32,19 +32,19 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/.dashboard.config.json",
+    "selected": "work/values.tldraw.json",
     "opened": [
-      ".lifeos/.dashboard.config.json"
+      "work/values.tldraw.json"
     ],
     "recentlyOpened": [
+      "work/values.tldraw.json",
       ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
       "freelancing/customer-a.timetracking.csv",
       ".lifeos/.biolinks.json",
       "Lifosy Values.md",
-      "cash.data-collection.csv",
-      "engineer-birthdays.events.csv"
+      "cash.data-collection.csv"
     ]
   }
 }
