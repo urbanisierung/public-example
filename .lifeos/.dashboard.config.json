@@ -1,21 +1,6 @@
 {
   "entries": [
     {
-      "path": "cash.data-collection.csv",
-      "dashboard": "default",
-      "skipOnMobile": false
-    },
-    {
-      "path": "daily-workout.habit.csv",
-      "dashboard": "default",
-      "skipOnMobile": false
-    },
-    {
-      "path": "engineer-birthdays.events.csv",
-      "dashboard": "default",
-      "skipOnMobile": false
-    },
-    {
       "path": "freelancing/customer-a.timetracking.csv",
       "dashboard": "Freelancing",
       "skipOnMobile": false
