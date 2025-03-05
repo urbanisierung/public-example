@@ -15,8 +15,8 @@
       "typeName": "page"
     },
     "shape:WsKxk6Jx9EphXxoVF5ddi": {
-      "x": 455,
-      "y": 257,
+      "x": -25,
+      "y": 102,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -45,8 +45,8 @@
       "typeName": "shape"
     },
     "shape:F4DDyCx-MYvugC8uDFTcE": {
-      "x": 413.85728061716486,
-      "y": 326.4973958333333,
+      "x": -66.14271938283514,
+      "y": 171.49739583333331,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -68,8 +68,8 @@
       "typeName": "shape"
     },
     "shape:LCdV847G1ERWsuwZjTi10": {
-      "x": 689.1427193828351,
-      "y": 326.4973958333333,
+      "x": 209.14271938283514,
+      "y": 171.49739583333331,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -91,8 +91,8 @@
       "typeName": "shape"
     },
     "shape:KJTBRTnrw3IhGiLAZGoT2": {
-      "x": 730.2854387656703,
-      "y": 257,
+      "x": 250.28543876567028,
+      "y": 102,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -121,8 +121,8 @@
       "typeName": "shape"
     },
     "shape:4C8sT4U-TN9ide_JFEM0g": {
-      "x": 549.4281581485054,
-      "y": 554.4973958333333,
+      "x": 69.42815814850542,
+      "y": 399.49739583333326,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -144,8 +144,8 @@
       "typeName": "shape"
     },
     "shape:-gbxSONv28ZEBzoA3Zo-o": {
-      "x": 590.5708775313406,
-      "y": 485,
+      "x": 110.57087753134056,
+      "y": 330,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -171,36 +171,6 @@
       },
       "parentId": "page:page",
       "index": "a1ron0lh",
-      "typeName": "shape"
-    },
-    "shape:8S7a5Mc2t06p9cUXFJwh7": {
-      "x": 1752,
-      "y": 803,
-      "rotation": 0,
-      "isLocked": false,
-      "opacity": 1,
-      "meta": {},
-      "id": "shape:8S7a5Mc2t06p9cUXFJwh7",
-      "type": "geo",
-      "props": {
-        "w": 35,
-        "h": 36,
-        "geo": "rectangle",
-        "color": "black",
-        "labelColor": "black",
-        "fill": "none",
-        "dash": "draw",
-        "size": "m",
-        "font": "draw",
-        "text": "",
-        "align": "middle",
-        "verticalAlign": "middle",
-        "growY": 0,
-        "url": "",
-        "scale": 1
-      },
-      "parentId": "page:page",
-      "index": "a5BNQ",
       "typeName": "shape"
     }
   },
