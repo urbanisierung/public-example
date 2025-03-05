@@ -27,11 +27,12 @@
     }
   ],
   "files": {
-    "selected": "freelancing/customer-b.timetracking.csv",
+    "selected": "freelancing/customer-milestones.events.csv",
     "opened": [
-      "freelancing/customer-b.timetracking.csv"
+      "freelancing/customer-milestones.events.csv"
     ],
     "recentlyOpened": [
+      "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
       "freelancing/customer-a.timetracking.csv",
       ".lifeos/.biolinks.json",
