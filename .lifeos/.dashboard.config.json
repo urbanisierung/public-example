@@ -42,19 +42,19 @@
     }
   ],
   "files": {
-    "selected": "work/values.tldraw.json",
+    "selected": "work/launch.todos.md",
     "opened": [
-      "work/values.tldraw.json"
+      "work/launch.todos.md"
     ],
     "recentlyOpened": [
+      "work/launch.todos.md",
       "work/values.tldraw.json",
       "work/work-pomodoro.pomodoro.csv",
       ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
       "freelancing/customer-a.timetracking.csv",
-      ".lifeos/.biolinks.json",
-      "Lifosy Values.md"
+      ".lifeos/.biolinks.json"
     ]
   }
 }
