@@ -37,19 +37,19 @@
     }
   ],
   "files": {
-    "selected": "work/values.tldraw.json",
+    "selected": "work/work-pomodoro.pomodoro.csv",
     "opened": [
-      "work/values.tldraw.json"
+      "work/work-pomodoro.pomodoro.csv"
     ],
     "recentlyOpened": [
+      "work/work-pomodoro.pomodoro.csv",
       "work/values.tldraw.json",
       ".lifeos/.dashboard.config.json",
       "freelancing/customer-milestones.events.csv",
       "freelancing/customer-b.timetracking.csv",
       "freelancing/customer-a.timetracking.csv",
       ".lifeos/.biolinks.json",
-      "Lifosy Values.md",
-      "cash.data-collection.csv"
+      "Lifosy Values.md"
     ]
   }
 }
