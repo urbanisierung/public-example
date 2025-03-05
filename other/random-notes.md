@@ -7,3 +7,4 @@ abbreviations: undefined
 
 # other/random-notes
 
+* some random notes go here
