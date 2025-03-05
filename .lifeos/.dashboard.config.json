@@ -17,11 +17,12 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/.biolinks.json",
+    "selected": "freelancing/customer-a.timetracking.csv",
     "opened": [
-      ".lifeos/.biolinks.json"
+      "freelancing/customer-a.timetracking.csv"
     ],
     "recentlyOpened": [
+      "freelancing/customer-a.timetracking.csv",
       ".lifeos/.biolinks.json",
       "Lifosy Values.md",
       "cash.data-collection.csv",
