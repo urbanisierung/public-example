@@ -17,11 +17,12 @@
     }
   ],
   "files": {
-    "selected": "Lifosy Values.md",
+    "selected": ".lifeos/.biolinks.json",
     "opened": [
-      "Lifosy Values.md"
+      ".lifeos/.biolinks.json"
     ],
     "recentlyOpened": [
+      ".lifeos/.biolinks.json",
       "Lifosy Values.md",
       "cash.data-collection.csv",
       "engineer-birthdays.events.csv",
