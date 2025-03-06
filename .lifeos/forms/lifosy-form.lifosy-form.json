@@ -15,6 +15,9 @@
       "optional": true
     }
   ],
-  "texts": {},
-  "answersFile": ""
+  "texts": {
+    "title": "Lifosy Form Example",
+    "description": "..."
+  },
+  "answersFile": "/forms/lifosy-form-answers.csv"
 }
