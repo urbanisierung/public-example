@@ -52,19 +52,19 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/events/launch-event.lifosy-event.json",
+    "selected": ".lifeos/forms/lifosy-form.lifosy-form.json",
     "opened": [
-      ".lifeos/events/launch-event.lifosy-event.json"
+      ".lifeos/forms/lifosy-form.lifosy-form.json"
     ],
     "recentlyOpened": [
+      ".lifeos/forms/lifosy-form.lifosy-form.json",
       ".lifeos/events/launch-event.lifosy-event.json",
       "other/random-notes.md",
       "work/launch.todos.md",
       "work/values.tldraw.json",
       "work/work-pomodoro.pomodoro.csv",
       ".lifeos/.dashboard.config.json",
-      "freelancing/customer-milestones.events.csv",
-      "freelancing/customer-b.timetracking.csv"
+      "freelancing/customer-milestones.events.csv"
     ]
   }
 }
