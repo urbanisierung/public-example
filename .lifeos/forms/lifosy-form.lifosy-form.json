@@ -1,5 +1,13 @@
 {
-  "questions": [],
+  "questions": [
+    {
+      "id": "email",
+      "title": "Email",
+      "description": "Please add your email address if you're interested in getting updates about Lifosy. ",
+      "type": "text",
+      "optional": true
+    }
+  ],
   "texts": {},
   "answersFile": ""
 }
