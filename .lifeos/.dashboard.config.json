@@ -54,14 +54,14 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/forms/lifosy-form.lifosy-form.json",
+    "selected": ".lifeos/events/launch-event.lifosy-event.json",
     "opened": [
-      ".lifeos/forms/lifosy-form.lifosy-form.json"
+      ".lifeos/events/launch-event.lifosy-event.json"
     ],
     "recentlyOpened": [
+      ".lifeos/events/launch-event.lifosy-event.json",
       ".lifeos/forms/lifosy-form.lifosy-form.json",
       ".lifeos/.dashboard.config.json",
-      ".lifeos/events/launch-event.lifosy-event.json",
       "other/random-notes.md",
       "work/launch.todos.md",
       "work/values.tldraw.json",
