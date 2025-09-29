@@ -54,13 +54,13 @@
     }
   ],
   "files": {
-    "selected": ".lifeos/.dashboard.config.json",
+    "selected": ".lifeos/forms/lifosy-form.lifosy-form.json",
     "opened": [
-      ".lifeos/.dashboard.config.json"
+      ".lifeos/forms/lifosy-form.lifosy-form.json"
     ],
     "recentlyOpened": [
-      ".lifeos/.dashboard.config.json",
       ".lifeos/forms/lifosy-form.lifosy-form.json",
+      ".lifeos/.dashboard.config.json",
       ".lifeos/events/launch-event.lifosy-event.json",
       "other/random-notes.md",
       "work/launch.todos.md",
